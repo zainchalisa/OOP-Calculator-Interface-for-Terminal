@@ -2,6 +2,10 @@ Object Oriented Calculator (Java Program)
 
 This is a calculator designed to read 2 integer inputs from the user and either add, subtract, mulitply, or divide based on what the user chooses.
 
-I coded this program after my first semester learning computer science. I have further improved it by creating a interface where the user can choose what type of computation they are looking to calculate. I think this is a lot more advantageous than giving all the computations to the user at once. Being able to choose improves the end-users expereince which at the end of the day is the most important aspect of your code.
+I coded this program after my first semester learning computer science. 
+I have further improved it by creating a interface where the user can choose what type of computation they are looking to calculate. 
+I think this is a lot more advantageous than giving all the computations to the user at once. 
+Being able to choose improves the end-users expereince which at the end of the day is the most important aspect of your code.
 
-I plan on further improving this program by creating a UI design that works on the outside of the terminal in the coming few months. I will update the program files once finished.
+I plan on further improving this program by creating a UI design that works on the outside of the terminal in the coming few months. 
+I will update the program files once finished.
